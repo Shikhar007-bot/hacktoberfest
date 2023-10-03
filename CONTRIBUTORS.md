@@ -1,3 +1,8 @@
+#### Name: Shikhar Malik
+ - Place: Lucknow, India
+ - Bio: Student
+ - Github: [Shikhar Malik] (https://github.com/Shikhar007-bot)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
